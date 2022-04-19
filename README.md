@@ -1,9 +1,5 @@
 OIE!
 
-- 💻 I’m currently working a little bit on backand and frontand.
-- 📘 I’m currently learning Javasript, HTML and CSS.
-- 👨‍👨‍👦 I’m looking to collaborate on ...
-
 <div align="center">
   <a href="https://github.com/FabioBJr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioBJr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
