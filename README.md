@@ -1,16 +1,11 @@
-Hi!
+# Fábio Brito Júnior
+👋Hi, I'm  a Computer Scientist student at UFPEL, and<br>a back-end developer focus on create new solutions and solve<br>problems to help change the world with technology.
 
-<div align="center">
-  <a href="https://github.com/FabioBJr">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=FabioBJr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBJr&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-<div style="display: inline_block"><br>
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
-##    
-  
-  <a href = "mailto:fabiobritojunior1101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/f%C3%A1bio-brito-b49179236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+## 🌐 Know more:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiobjr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabio.bjr)
+
+![](https://github-readme-stats.vercel.app/api?username=FabioBJr&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBJr&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
