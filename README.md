@@ -1,4 +1,4 @@
-<div align = center>
+<div align = >
   
 # 👋Hi, I'm Fábio Brito Júnior 
 Computer Science student at UFPEL, and<br>a back-end developer focus on create new solutions and solve<br>problems to help change the world with technology.
