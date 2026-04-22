@@ -10,7 +10,7 @@ Computer Engineer at <a href="https://www.inf.ufrgs.br/site/">UFRGS</a>.
 ## Current Projects
 - **[login-authentication-api](https://github.com/FabioBJr/login-authentication-api)** - A authentication API built with native Node.js and PostgreSQL.
 
-### Contact me here
+### Contact
 
 <a href="https://linkedin.com/in/fabiobjr">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30"/>
