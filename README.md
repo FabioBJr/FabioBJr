@@ -11,7 +11,9 @@ Computer Engineer at <a href="https://www.inf.ufrgs.br/site/">UFRGS</a>.
 - **[login-authentication-api](https://github.com/FabioBJr/login-authentication-api)** - A authentication API built with native Node.js and PostgreSQL.
 
 ### Contact
-
+<a href="https://fabio-web-puce.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=fortran" alt="LinkedIn" width="30"/>
+</a>
 <a href="https://linkedin.com/in/fabiobjr">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30"/>
 </a>
