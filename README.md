@@ -4,7 +4,7 @@ Always computing or discovering new computer stuffs. <br>
 Computer Engineer at <a href="https://www.inf.ufrgs.br/site/">UFRGS</a>.
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,nodejs,js,html,css" alt="My Skills" height="28" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs" alt="My Skills" height="28" />
 </a>
 
 ## Current Projects
