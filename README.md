@@ -1,6 +1,6 @@
 # Hi, I'm Fábio 👋
 
-Always computing or discovering new computer stuffs. <br>
+Always computing or exploring new computer stuffs. <br>
 Computer Engineer at <a href="https://www.inf.ufrgs.br/site/">UFRGS</a>.
 
 <a href="https://skillicons.dev">
