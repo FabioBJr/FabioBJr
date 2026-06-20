@@ -8,7 +8,7 @@ Computer Engineer at <a href="https://www.inf.ufrgs.br/site/">UFRGS</a>.
 </a>
 
 ## Current Projects
-- **[afn-converter](https://github.com/FabioBJr/nfa-converter)** - A web page for convert a NFA to a DFA.
+- **[nfa-converter](https://github.com/FabioBJr/nfa-converter)** - A web page for convert a NFA to a DFA.
 - **[login-authentication-api](https://github.com/FabioBJr/login-authentication-api)** - A authentication API built with native Node.js and PostgreSQL.
 
 ### Contact
